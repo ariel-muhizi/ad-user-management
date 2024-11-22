@@ -25,7 +25,7 @@ The `all_users.csv` file includes the following columns:
 - **City**
 - **Zipcode**
 
-**Notes**
+### Notes ###
 The project fetches data from the JSONPlaceholder API, which is a mock API for testing and development purposes.
 The dataset is limited to 10 users for demonstration purposes.
    
